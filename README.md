@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscillabigaill&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) \n
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priscillabigaill&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) /n
 ![Stats](https://github-readme-stats.vercel.app/api?username=priscillabigaill&show_icons=true&theme=cobalt)
